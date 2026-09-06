@@ -1,0 +1,1 @@
+Replace package.json in the BLACKFOREX project with this updated version, then commit and push.
